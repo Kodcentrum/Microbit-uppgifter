@@ -1,6 +1,6 @@
 # micro:bit uppvärmning
 
-Denna uppgift är för dig som aldrig har kodat med micro:bit förut och vill ha en snabbstart innan du börjar koda ett riktig program. 123
+Denna uppgift är för dig som aldrig har kodat med micro:bit förut och vill ha en snabbstart innan du börjar koda ett riktig program.
 
 ![image alt text](image_0.png)
 
