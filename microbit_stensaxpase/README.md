@@ -6,7 +6,7 @@ Ett exempel på spelet hittar du här: <a href="https://makecode.microbit.org/_d
 
 ![image alt text](image_0.png)
 
-Om du aldrig har kodat en micro:bit förut är det bra om du gör uppgiften **Uppvärmning** först. Då får du lära dig lite enklare saker om micro:biten.
+Om du aldrig har kodat en micro:bit förut är det bra om du gör uppgiften **Uppvärmning** först [Uppvärmning](https://www.kodboken.se/start/skapa-spel/uppgifter-for-microbit/microbit-uppvarmning). Då får du lära dig lite enklare saker om hur  micro:biten fungerar och kan kodas.
 
 ## 1 – För en spelare
 
