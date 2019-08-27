@@ -1,6 +1,6 @@
 # micro:bit uppvärmning med Scratch
 
-Denna uppgift är för dig som aldrig har kodat med micro:bit förut och vill ha en snabbstart innan du börjar koda ett riktig program. Du kommer att få lära dig att styra din micro:bit med Scratch!
+Denna uppgift är för dig som aldrig har kodat med micro:bit förut och vill ha en snabbstart innan du börjar koda ett riktig program. Du kommer att få lära dig att styra och koda din micro:bit i verktyget Scratch!
 
 ![image alt text](image_1.png)
 
