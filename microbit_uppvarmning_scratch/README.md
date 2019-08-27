@@ -4,74 +4,74 @@ Denna uppgift är för dig som aldrig har kodat med micro:bit förut och vill ha
 
 ![image alt text](image_1.png)
 
-## 1 – Kom igång med micro:bits
+## 1 – Kom igång med micro:bit
 
-För att kunna använda micro:bit med Scratch behöver du installera några saker.
+För att kunna använda micro:bit tillsammans med Scratch behöver du först installera några saker på din dator.
 
-1. Gå till [https://scratch.mit.edu/microbit](https://scratch.mit.edu/microbit) och gör instruktionerna där
+1. Gå till [https://scratch.mit.edu/microbit](https://scratch.mit.edu/microbit) och följ instruktionerna där.
 
 Du behöver i korthet:
 
-* Installera ett litet program på din dator
+* Ladda ned och installera ett litet program på din dator.
 
-* Kopiera över en .hex-fil till din micro:bit
+* Kopiera över en så kallad .hex-fil till din micro:bit.
 
-* Starta programmet *Scratch Link* som du installerade
+* Starta programmet *Scratch Link* som du nu har installerat.
 
 ## 2 - Visa ett meddelande på micro:biten
 
-Det första du ska få göra är att fråga efter ett kort meddelande som ska visas på micro:bit
+Nu är det dags att koda i Scratch. Det första du ska få göra är att fråga efter ett kort meddelande som ska visas på din micro:bit.
 
-Vi ska börja med att lägga till micro:bit block:
+Vi ska börja med att lägga till nya micro:bit block i Scratch, som du sen kan koda med.:
 
-1. Klicka på knappen för **Lägg till ett tillägg** längst ner till vänster på skärmen
+1. Öppna verktyget Scratch. Logga gärna in om du har ett konto. Klicka på knappen för **Lägg till ett tillägg** längst ner till vänster på skärmen.
 
-![image alt text](image_2.png)
+![Knapp "Lägg till ett tillägg" i Scratch](image_2.png)
 
-2. Scrolla ner i listan och klicka på **micro:bit**
+2. Scrolla ner i listan och klicka på bilden **micro:bit**
 
 ![image alt text](image_3.png)
 
-Nu kommer Scratch att försöka hitta och ansluta till din micro:bit
+Nu kommer Scratch att automatiskt försöka hitta och ansluta till din micro:bit.
 
 3. Klicka på **Koppla upp** när den hittat din enhet
 
 ![image alt text](image_4.png)
 
-4. Klicka på på **Gå till redigeraren** för att komma tillbaka till Scratch-editorn.
+4. Klicka på på **Gå till redigeraren** för att komma tillbaka till Scratch. Dax att börja koda.
 
 
-Nu har du fått nya block till vänster i listan över block.
+Nu har du fått nya block till vänster i listan över block. De kan användas tillsammans med andra kodblock i Scratch som vanligt.
 
-Skapa ett skript som säger:
+Skapa nu ett skript till din Katt-sprajt som säger:
 
-1. När **Start klicka på**
+1. När **Start klickas på**
 
-2. **Fråga** "Vad ska micro:bit en säga?" och vänta
+2. **Fråga** "Vad ska micro:biten säga?" och vänta
 
 3. **visa text** "svar"
 
 ![image alt text](image_5.png)
 
-Det sista blocket är ett av de nya micro:bit-blocken.
+Det sista blocket är ett av de nya gröna micro:bit-blocken, det som heter **visa text** "Hej!". Byt ut "Hej!" mot blocket **Svar** som du finner under kategorin **Känna av**, genom att dra in och släppa det över texten "Hej!".
 
-> Testa ditt program. Vad händer när du klickar på den gröna flaggan?
+> Testa ditt program. Vad händer när du klickar på den gröna flaggan? Skriv ett svar i Scratch och tryck på blå knappen bredvid svarsrutan. Vad händer nu på din micro:bit?
 
-## Använda knapparna
+## Använda knapparna på micro:bit
 
-På micro:biten finns det två knappar **A** och **B**. Nu ska du få koda vad som ska hända när du trycker på dem.
+På din micro:bit finns det två svarta knappar med bokstaven **A** och **B** bredvid. Nu ska du få koda vad som ska hända när du trycker på dem.
 
-1. Du har ett micro:bit block som heter **om knapp A trycks ned**. Du kan också välja **B** eller **någon** knapp (A eller B)
+1. Du har ett micro:bit block som heter **om knapp A trycks ned**. Du kan också välja **B** eller **någon** knapp (A eller B), om du klickar på den lilla pilen bredvid bokstaven i blocket.
 
 ![image alt text](image_6.png)
 
-2. Dra in ett block **om knapp A trycks ned** till kodytan
+2. Dra in blocket **om knapp A trycks ned** till kodytan i Scratch.
 
-    > Vad ska hända när du trycker på knapp A? Här visar vi hur du kan skapa en enkel animation – men du får koda vad du vill!
+    > Vad vill du ska hända när du trycker på knapp A? Här visar vi hur du kan skapa en enkel animation – men du får givetvis koda vad du vill!
 
-3. Dra in ett block **repetera 4 gånger** från kategorin **Kontroll** och lägg det innanför blocket som körs när du trycker på knapp **A**
+3. Dra in ett block **repetera 4 gånger** från kategorin **Kontroll** och lägg det direkt under blocket som körs när du trycker på knapp **A**
 
-4. Lägg in dessa block innanför loopen:
+4. Lägg in dessa block inuti loopen:
 
     * **Visa** ikon **Hjärta**
 
@@ -83,9 +83,9 @@ På micro:biten finns det två knappar **A** och **B**. Nu ska du få koda vad s
 
 > Testa ditt program! Vad händer om du trycker på A-knappen på micro:biten?
 
-Du kan ju också få sprajter i Scratch att röra på sig!
+Du kan ju också få sprajter i Scratch att börja röra på sig när knapp på micro:bit trycks ned! Här följer ett exempel på hur det kan kodas:
 
-Skapa ett Script som säger:
+Skapa ett nytt skript som säger:
 
 1. Om **knapp B** trycks ned
 
@@ -97,7 +97,7 @@ Skapa ett Script som säger:
 
 ![image](image_8.png)
 
-> Testa ditt program! Vad händer om du trycker på B-knappen på micro:biten?
+> Testa ditt program! Vad händer om du trycker på B-knappen på micro:biten? 
 
 
 ## Färdig!
