@@ -4,6 +4,8 @@ Denna uppgift är för dig som aldrig har kodat med micro:bit förut och vill ha
 
 ![image alt text](image_1.png)
 
+Först ska vi installera din micro:bit och koppla den till Scratch, sen ska vi koda meddelanden och knappar. Gå vidare i instruktionen för att lära dig hur du kan göra detta.
+
 ## 1 – Kom igång med micro:bit på din dator
 
 För att kunna använda micro:bit tillsammans med Scratch behöver du först installera några saker på din dator.
