@@ -4,11 +4,12 @@ Denna uppgift är för dig som aldrig har kodat med micro:bit förut och vill ha
 
 ![image alt text](image_1.png)
 
-## 1 – Kom igång med micro:bit
+## 1 – Kom igång med micro:bit på din dator
 
 För att kunna använda micro:bit tillsammans med Scratch behöver du först installera några saker på din dator.
 
-1. Gå till [https://scratch.mit.edu/microbit](https://scratch.mit.edu/microbit) och följ instruktionerna där.
+1. Koppla in din micro:bit i din dator med dess USB-sladd.
+2. Gå till [https://scratch.mit.edu/microbit](https://scratch.mit.edu/microbit) och följ instruktionerna för installation där.
 
 Du behöver i korthet:
 
@@ -18,32 +19,34 @@ Du behöver i korthet:
 
 * Starta programmet *Scratch Link* som du nu har installerat.
 
-## 2 - Visa ett meddelande på micro:biten
+## 2 - Lägg till nya kodblock i Scratch
 
-Nu är det dags att koda i Scratch. Det första du ska få göra är att fråga efter ett kort meddelande som ska visas på din micro:bit.
+Vi ska börja med att lägga till nya micro:bit block i Scratch, som du sen kan koda med:
 
-Vi ska börja med att lägga till nya micro:bit block i Scratch, som du sen kan koda med.:
-
-1. Öppna verktyget Scratch. Logga gärna in om du har ett konto. Klicka på knappen för **Lägg till ett tillägg** längst ner till vänster på skärmen.
+1. Öppna verktyget Scratch. Logga gärna in om du har ett konto. Klicka på knappen för **Lägg till ett tillägg** längst ner till vänster i Scratch.
 
 ![Knapp "Lägg till ett tillägg" i Scratch](image_2.png)
 
-2. Scrolla ner i listan och klicka på bilden **micro:bit**
+2. Scrolla ner i listan och klicka på bilden för **micro:bit**.
 
 ![image alt text](image_3.png)
 
 Nu kommer Scratch att automatiskt försöka hitta och ansluta till din micro:bit.
 
-3. Klicka på **Koppla upp** när den hittat din enhet
+3. Klicka på **Koppla upp** när den hittat din enhet.
 
 ![image alt text](image_4.png)
 
-4. Klicka på på **Gå till redigeraren** för att komma tillbaka till Scratch. Dax att börja koda.
+4. Klicka på på **Gå till redigeraren** för att komma tillbaka till Scratch. 
 
+> Nu har du fått ny kategori med kodblock för micro:bit till vänster i listan över block. Kodblocken kan användas som vanligt för att koda tillsammans med andra block i Scratch.
 
-Nu har du fått nya block till vänster i listan över block. De kan användas tillsammans med andra kodblock i Scratch som vanligt.
+Dax att börja koda din micro:bit!
 
-Skapa nu ett skript till din Katt-sprajt som säger:
+## 3 - Visa ett meddelande på micro:biten
+Nu är det dags att koda i Scratch. Det första du ska få göra är att fråga efter ett kort textmeddelande som ska visas fram på din micro:bit. Gör såhär:
+
+Skapa ett skript till din Katt-sprajt som säger:
 
 1. När **Start klickas på**
 
@@ -57,7 +60,7 @@ Det sista blocket är ett av de nya gröna micro:bit-blocken, det som heter **vi
 
 > Testa ditt program. Vad händer när du klickar på den gröna flaggan? Skriv ett svar i Scratch och tryck på blå knappen bredvid svarsrutan. Vad händer nu på din micro:bit?
 
-## Använda knapparna på micro:bit
+## 4 Använda knapparna på micro:bit
 
 På din micro:bit finns det två svarta knappar med bokstaven **A** och **B** bredvid. Nu ska du få koda vad som ska hända när du trycker på dem.
 
