@@ -1,6 +1,6 @@
 # Rymdattack - micro:bit
 
-I denna uppgift kommer du att få ändra i ditt Bugrace spel så att Rymdskeppet
+I denna uppgift kommer du att få ändra i ditt Rymdattack spel så att rymdskeppet
 styrs och att du skuter skott med hjälp av en micro:bit
 
 ![image alt text](image_1.png)
@@ -11,7 +11,7 @@ Om du aldrig har jobbat med micro:bit i Scratch förut, ta en titt på uppvärmi
 
 Den här uppgiften bygger på att du har skapat ett Rymdattack spel förut. Om du inte har gjort det kan du använda dig av ett exempelprojekt.
 
-1. Gå till ditt Bugrace projekt i Scratch eller till [https://scratch.mit.edu/projects/118440149/](https://scratch.mit.edu/projects/118440149/) om du inte har kodat Rymdattack
+1. Gå till ditt Rymdattack projekt i Scratch eller till [https://scratch.mit.edu/projects/118440149/](https://scratch.mit.edu/projects/118440149/) om du inte har kodat Rymdattack
 
 2. Klicka på knappen **Remix** så att du får en ny version av programmet
 
@@ -88,7 +88,7 @@ Här använder vi oss av en **operator** för att göra förändringen i **x** m
 
 > Testa spelet igen! Rör sig rymdskeppet lagomt snabbt?
 
-4 - Skjut skott med micro:bit
+## 4 - Skjut skott med micro:bit
 
 Nu ska du få koda så att du också kan skjuta iväg skott med micro:bit.
 
