@@ -62,7 +62,7 @@ Nu är det dags att få skalbaggen att rotera med hjälp av micro:bit. Istället
 
 3. Flytta blocket **rotera 10 grader till vänster** och lägg det under microbit:blocket
 
-<video src="./mov_1.mp4" autoplay loop muted />
+![image alt text](image_5.gif)
 
 4. Dra in ett block **om knapp "B" trycks ned** till kodytan och flytta blocket **rotera 10 grader till höger** till det blocket.
 
@@ -70,4 +70,4 @@ Nu är det dags att få skalbaggen att rotera med hjälp av micro:bit. Istället
 
 ## Färdig!
 
-Gratis, nu har du kopplat ihop dit spel med en handkontroll precis som till ett xBox eller en Playstation.
+Gratis, nu har du kopplat ihop dit spel med en handkontroll. Nu kan du spela ditt Bugrace spel precis som om det vore en xBox eller en Playstation.
