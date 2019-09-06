@@ -1,4 +1,4 @@
-# Rymdattack - micro:bit
+# Rymdattack - micro:bit styrkontroll
 
 I denna uppgift kommer du att få ändra i ditt skapade Rymdattack spel så att rymdskeppet
 styrs och att du skjuter skott med hjälp av en micro:bit som handkontroll.
