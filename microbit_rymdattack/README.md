@@ -7,7 +7,7 @@ styrs och att du skjuter skott med hjälp av en micro:bit som handkontroll.
 
 Om du aldrig har jobbat med micro:bit i Scratch förut, ta en titt på micro:bit uppvärmingsuppgiften först!
 
-## 1 - Remixa ett befintligt project
+## 1 - Remixa ett befintligt projekt
 
 Den här uppgiften bygger på att du redan har skapat ett Rymdattack spel innan som du nu kan koppla till en micro:bit. Om du inte har ett färdigt Rymdattack spel, kan du använda dig av vårt exempelprojekt av Rymdattack nedan:
 
