@@ -11,7 +11,7 @@ Om du aldrig har jobbat med micro:bit i Scratch förut, ta en titt på micro:bit
 
 Den här uppgiften bygger på att du redan har skapat ett Rymdattack spel innan som du nu kan koppla till en micro:bit. Om du inte har ett färdigt Rymdattack spel, kan du använda dig av vårt exempelprojekt av Rymdattack nedan:
 
-1. Gå till ditt Rymdattack projekt i Scratch eller till exempelprojektet [https://scratch.mit.edu/projects/118440149/](https://scratch.mit.edu/projects/118440149/) om du inte har ett eget kodat Rymdattack.
+1. Gå till ditt Rymdattack projekt i Scratch eller till exempelprojektet [https://scratch.mit.edu/projects/118440149/](https://scratch.mit.edu/projects/118440149/ target="_blank") om du inte har ett eget kodat Rymdattack. <a href="https://scratch.mit.edu" target="_blank"></a>
 
 2. Se till att du är inloggad i Scratch och klicka på knappen **Remix**, så sparas en ny version av Rymdattack spelet till dig.
 
