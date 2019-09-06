@@ -5,7 +5,7 @@ styrs och att du skjuter skott med hjälp av en micro:bit som handkontroll.
 
 ![image alt text](image_1.png)
 
-Om du aldrig har jobbat med micro:bit i Scratch förut, ta en titt på uppvärmingsuppgiften först!
+Om du aldrig har jobbat med micro:bit i Scratch förut, ta en titt på micro:bit uppvärmingsuppgiften först!
 
 ## 1 - Remixa ett befintligt project
 
@@ -25,7 +25,7 @@ Nu kommer projektet öppnas i Scratch studion.
 
 > Det är viktigt att du remixar och får ditt nytt projekt så du inte fortsätter på ett gammalt projekt! Då kan det bli fel.
 
-## 2 - Koppa upp dig mot micro:bit
+## 2 - Koppla upp dig mot micro:bit
 
 De här instruktionerna förutsätter att du har installerat din micro:bit med de nödvändiga grejorna så att Scratch kan prata med din micro:bit. Om du inte har gjort det - ta en titt på uppvärmingsuppgiften om hur man installerar.
 
