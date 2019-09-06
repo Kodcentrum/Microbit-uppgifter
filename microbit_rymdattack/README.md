@@ -23,7 +23,7 @@ Nu kommer projektet öppnas i Scratch studion.
 
 ![image alt text](image_3.png)
 
-> Det är viktigt att du remixar och får ditt nytt projekt så du inte fortsätter på ett gammalt projekt! Då kan det bli fel.
+> Det är viktigt att du remixar och får ditt nya projekt så du inte fortsätter på ett gammalt projekt! Annars sparas inte det du skapar till din Scratch-profil.
 
 ## 2 - Koppla upp dig mot micro:bit
 
