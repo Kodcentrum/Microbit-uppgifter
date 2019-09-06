@@ -9,11 +9,11 @@ Om du aldrig har jobbat med micro:bit i Scratch förut, ta en titt på micro:bit
 
 ## 1 - Remixa ett befintligt project
 
-Den här uppgiften bygger på att du har skapat ett Rymdattack spel förut. Om du inte har gjort det kan du använda dig av ett exempelprojekt.
+Den här uppgiften bygger på att du redan har skapat ett Rymdattack spel innan som du nu kan koppla till en micro:bit. Om du inte har ett färdigt Rymdattack spel, kan du använda dig av vårt exempelprojekt av Rymdattack nedan:
 
-1. Gå till ditt Rymdattack projekt i Scratch eller till [https://scratch.mit.edu/projects/118440149/](https://scratch.mit.edu/projects/118440149/) om du inte har kodat Rymdattack
+1. Gå till ditt Rymdattack projekt i Scratch eller till exempelprojektet [https://scratch.mit.edu/projects/118440149/](https://scratch.mit.edu/projects/118440149/) om du inte har ett eget kodat Rymdattack.
 
-2. Klicka på knappen **Remix** så att du får en ny version av programmet
+2. Se till att du är inloggad i Scratch och klicka på knappen **Remix**, så sparas en ny version av Rymdattack spelet till dig.
 
 ![image alt text](image_2.png)
 
